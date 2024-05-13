@@ -2,14 +2,15 @@
 import React, { useState } from "react";
 import { HoveredLink, Menu, MenuItem, ProductItem } from "./ui/navbar-menu";
 import { cn } from "@/utils/cn";
+import { div } from "three/examples/jsm/nodes/Nodes.js";
+
 
 export function NavbarDemo() {
   return (
     <div className="relative w-full flex items-center justify-center">
-      <Navbar className="top-2" />
-      <p className="text-black dark:text-white">
-        The Navbar will show on top of the page
-      </p>
+      <Navbar className="top-3" />
+      {/* <img  src="../assets/logo.png" alt="image not found"/> */}
+
     </div>
   );
 }
@@ -20,7 +21,12 @@ function Navbar({ className }: { className?: string }) {
     <div
       className={cn("fixed top-10 inset-x-0 max-w-2xl mx-auto z-50", className)}
     >
+
+
+
       <Menu setActive={setActive}>
+
+
         <MenuItem setActive={setActive} active={active} item="Services">
           <div className="flex flex-col space-y-4 text-sm">
             <HoveredLink href="/web-dev">Web Development</HoveredLink>
@@ -57,6 +63,7 @@ function Navbar({ className }: { className?: string }) {
             />
           </div>
         </MenuItem>
+
         <MenuItem setActive={setActive} active={active} item="Pricing">
           <div className="flex flex-col space-y-4 text-sm">
             <HoveredLink href="/hobby">Hobby</HoveredLink>
@@ -65,6 +72,13 @@ function Navbar({ className }: { className?: string }) {
             <HoveredLink href="/enterprise">Enterprise</HoveredLink>
           </div>
         </MenuItem>
+
+        <MenuItem setActive={setActive} active={active} item="Blogs"></MenuItem>
+        <MenuItem setActive={setActive} active={active} item="Happy Customers"></MenuItem>
+        <MenuItem setActive={setActive} active={active} item="Contact"></MenuItem>
+
+
+
       </Menu>
     </div>
   );

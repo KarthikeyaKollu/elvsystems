@@ -3,10 +3,18 @@
 import Image from "next/image";
 import { Tabs } from "./ui/tabs";
 import logo from "../assets/pic.png"
+
+
+// IT & ELV Consult
+// Authorized Svc Centers (ASC)
+// Managed IT Solutions
+// Maintenance (IT & ELV)
+// Virtual Maintenance Contracts (VMC)
+// Content Services
 export function TabsDemo() {
   const tabs = [
     {
-      title: "Product",
+      title: "IT & ELV Consult",
       value: "product",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
@@ -16,7 +24,7 @@ export function TabsDemo() {
       ),
     },
     {
-      title: "Services",
+      title: "Authorized Centers",
       value: "services",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
@@ -26,7 +34,7 @@ export function TabsDemo() {
       ),
     },
     {
-      title: "Playground",
+      title: "Managed IT Solutions",
       value: "playground",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
@@ -36,7 +44,7 @@ export function TabsDemo() {
       ),
     },
     {
-      title: "Content",
+      title: "Virtual Maintenance Contracts",
       value: "content",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
@@ -46,8 +54,8 @@ export function TabsDemo() {
       ),
     },
     {
-      title: "Random",
-      value: "random",
+      title: "Content Services",
+      value: "radom",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
           <p>Random tab</p>
@@ -55,10 +63,22 @@ export function TabsDemo() {
         </div>
       ),
     },
+  
+    {
+      title: "Maintenance (IT & ELV)",
+      value: "rando",
+      content: (
+        <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
+          <p>Random tab</p>
+          <DummyContent />
+        </div>
+      ),
+    },
+   
   ];
 
   return (
-    <div className="h-[20rem] md:h-[40rem] [perspective:1000px] relative b flex flex-col max-w-5xl mx-auto w-full  items-start justify-start my-40">
+    <div className="h-[20rem] md:h-[45rem] [perspective:1000px] relative  flex flex-col  mx-auto w-full  items-start justify-start my-40 ">
       <Tabs tabs={tabs} />
     </div>
   );
