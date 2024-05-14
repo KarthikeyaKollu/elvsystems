@@ -9,8 +9,7 @@ npm run dev
 # or
 yarn dev
 # or
-pnpm dev
-# or
+pnpm 
 bun dev
 ```
 
@@ -18,7 +17,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project uses [`next/font`](https://![logo](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/72da1545-4142-49c0-8e5e-36d4098fcd87)
+nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
