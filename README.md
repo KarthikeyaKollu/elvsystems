@@ -1,36 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm 
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://![logo](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/72da1545-4142-49c0-8e5e-36d4098fcd87)
-nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![8](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/5aeaf95d-e5fc-4594-b547-38b85cacd38c)
+![7](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/719948d6-18ad-4d0d-a89e-b704964743b2)
+![5](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/cbeca077-59b0-40ea-91d1-1b5c8fe94650)
+![4](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/9ebbf977-1435-4ca5-bc86-cec3d7b8876c)
+![3](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/75e17d3d-3884-4a7d-90c3-1f6d2be9aa38)
+![2](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/f662192b-f066-426e-bd0c-9b487eac1265)
+![2 2](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/0a296938-b7bc-49ce-8d19-fd448d41ba89)
+![1](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/41bfc1d0-e91b-4bcd-a430-3af51b183e08)
+![1 1](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/51e901cd-f52a-4479-9738-2c8fe4ef9b38)
