@@ -25,3 +25,19 @@ This project uses [`next/font`](https://![logo](https://github.com/KarthikeyaKol
 
 
 ![1](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/422242e7-7605-4046-a330-9d2da9554877)
+
+
+
+
+
+
+
+![SCR-20240517-qgid-removebg-preview](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/542b1a26-7cee-4f95-b5a1-fbe4c0e095f1)
+
+
+![SCR-20240517-qgtt-removebg-preview](https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/31502063-80b5-47dc-aaab-55f17e44b41e)
+
+
+
+
+
